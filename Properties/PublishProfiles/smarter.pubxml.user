@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://ftp.site4now.net/test/fiverr/FileUpload1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>04/10/2021 00:42:15</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>04/10/2021 21:24:40</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>04/10/2021 21:24:41</publishTime>
+    </File>
+    <File Include="bin/MyWebHook05.dll">
+      <publishTime>04/10/2021 22:14:21</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/10/2021 00:42:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>04/10/2021 20:43:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>04/10/2021 20:43:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>04/10/2021 00:42:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>04/10/2021 20:43:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>04/10/2021 20:43:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>04/10/2021 20:43:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>04/10/2021 20:43:10</publishTime>
+    </File>
+    <File Include="bin/Twilio.AspNet.Common.dll">
+      <publishTime>04/10/2021 20:32:11</publishTime>
+    </File>
+    <File Include="bin/Twilio.AspNet.Mvc.dll">
+      <publishTime>04/10/2021 20:32:12</publishTime>
+    </File>
+    <File Include="bin/Twilio.dll">
+      <publishTime>04/10/2021 20:32:02</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>04/10/2021 00:42:21</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>04/10/2021 00:42:11</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/10/2021 00:42:11</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/10/2021 00:42:10</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/10/2021 21:24:48</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>04/10/2021 00:42:12</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>04/10/2021 00:42:12</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>04/10/2021 00:42:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>04/10/2021 00:42:13</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>04/10/2021 00:42:13</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>04/10/2021 00:42:14</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>04/10/2021 11:58:13</publishTime>
+    </File>
+    <File Include="Views/HelloWorld/FileUpload1.cshtml">
+      <publishTime>04/10/2021 21:28:38</publishTime>
+    </File>
+    <File Include="Views/HelloWorld/FileUpload2.cshtml.txt">
+      <publishTime>04/10/2021 11:52:44</publishTime>
+    </File>
+    <File Include="Views/HelloWorld/FileUpload3.cshtml.txt">
+      <publishTime>04/10/2021 01:39:57</publishTime>
+    </File>
+    <File Include="Views/Home/About.cshtml">
+      <publishTime>04/10/2021 00:42:15</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>04/10/2021 00:42:15</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>04/10/2021 00:42:15</publishTime>
+    </File>
+    <File Include="Views/Images/Create.cshtml">
+      <publishTime>04/10/2021 21:27:34</publishTime>
+    </File>
+    <File Include="Views/Images/Delete.cshtml">
+      <publishTime>04/10/2021 21:27:35</publishTime>
+    </File>
+    <File Include="Views/Images/Details.cshtml">
+      <publishTime>04/10/2021 21:27:35</publishTime>
+    </File>
+    <File Include="Views/Images/Edit.cshtml">
+      <publishTime>04/10/2021 21:27:36</publishTime>
+    </File>
+    <File Include="Views/Images/Index.cshtml">
+      <publishTime>04/10/2021 21:27:36</publishTime>
+    </File>
+    <File Include="Views/Images/Upload.cshtml">
+      <publishTime>04/10/2021 22:01:54</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>04/10/2021 00:42:15</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>04/10/2021 00:42:15</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/10/2021 00:42:14</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>04/10/2021 00:42:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/10/2021 22:14:23</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
